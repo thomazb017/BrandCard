@@ -1,4 +1,4 @@
-1) Installation
+1) Installation##
     npm install
-2) run project
+2) run project##
     npm run dev
